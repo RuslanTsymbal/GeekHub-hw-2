@@ -1,4 +1,4 @@
-# GeekHub-hw-1
+# GeekHub homework - 2
 
 - в файле js_1.js код 1п. домашнего задания
 
